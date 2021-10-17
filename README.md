@@ -2,6 +2,7 @@
 
 👀 I’m interested in ...
 - Data Augmentation
+- IOT with Zigbee
 - Quantum computing
 - ROS 2
 
