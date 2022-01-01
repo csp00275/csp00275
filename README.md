@@ -1,7 +1,7 @@
 👋 Hi, I’m JaeHyeong
 
 👀 I’m interested in ...
-- Data Augmentation
+- PyQt5
 - IOT with Zigbee
 - Quantum computing
 - ROS 2
