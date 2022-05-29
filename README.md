@@ -2,12 +2,12 @@
 
 👀 I’m interested in ...
 - PyQt5
-- IOT with Zigbee
+- IOT with SmartThings
 - Quantum computing
 - ROS 2
 
 🌱 I’m currently learning ...
-- Data Augmentation
+- ROS2
 - Supervised Learning
 - Multi-Object Detection
 
