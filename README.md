@@ -1,15 +1,15 @@
 👋 Hi, I’m JaeHyeong
 
 👀 I’m interested in ...
-- PyQt5
-- IOT with SmartThings
-- Quantum computing
+- Embedded system
+- IOT with SmartThings (MQTT communication)
+- Frontend Developemnt (Android)
 - ROS 2
 
 🌱 I’m currently learning ...
 - ROS2
-- Supervised Learning
-- Multi-Object Detection
+- Embedded system (STM32Fxx)
+- IOT with SmartThings (MQTT communication)
 
 📫 How to reach me ...
 - e-mail : csp00275@skku.edu
