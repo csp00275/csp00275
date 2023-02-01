@@ -1,15 +1,16 @@
-👋 Hi, I’m JaeHyeong
+👋 Hi, I’m JaeHyeong Park
 
 👀 I’m interested in ...
-- Embedded system
+- Embedded system 
 - IOT with SmartThings (MQTT communication)
 - Frontend Developemnt (Android)
-- ROS 2
+- Deep Learning (Classification)
 
 🌱 I’m currently learning ...
 - ROS2
 - Embedded system (STM32Fxx)
-- IOT with SmartThings (MQTT communication)
+- IOT with SmartThings (ESP8266)
+- Frontend Developemnt (Android app on Flutter)
 
 📫 How to reach me ...
 - e-mail : csp00275@skku.edu
