@@ -1,13 +1,12 @@
 👋 Hi, I’m JaeHyeong Park
 
 👀 I’m interested in ...
-- Embedded system 
-- IOT with SmartThings (MQTT communication)
-- Frontend Developemnt (Android)
-- Deep Learning (Classification)
+- ROS2
+- Embedded system (IoT)
+- Frontend Developemnt
+- Deep Learning
 
 🌱 I’m currently learning ...
-- ROS2
 - Embedded system (STM32Fxx)
 - IOT with SmartThings (ESP8266)
 - Frontend Developemnt (Android app on Flutter)
