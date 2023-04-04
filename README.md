@@ -2,14 +2,15 @@
 
 👀 I’m interested in ...
 - ROS2
-- Embedded system (IoT)
+- Embedded system
+- Internet of Things
 - Frontend Developemnt
 - Deep Learning
 
 🌱 I’m currently learning ...
 - Embedded system (STM32Fxx)
-- IOT with SmartThings (ESP8266)
-- Frontend Developemnt (Android app on Flutter)
+- IOT with SmartThings (ESP8266 with Arduino)
+- Frontend Developement (Android app on Flutter)
 
 📫 How to reach me ...
 - e-mail : csp00275@skku.edu
