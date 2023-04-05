@@ -11,6 +11,7 @@
 - Embedded system (STM32Fxx)
 - IOT with SmartThings (ESP8266 with Arduino)
 - Frontend Developement (Android app on Flutter)
+- Deep Learning (Supervised learning)
 
 📫 How to reach me ...
 - e-mail : csp00275@skku.edu
