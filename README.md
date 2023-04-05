@@ -1,11 +1,11 @@
 👋 Hi, I’m JaeHyeong Park
 
 👀 I’m interested in ...
-- ROS2
 - Embedded system
 - Internet of Things
 - Frontend Developemnt
 - Deep Learning
+- ROS2
 
 🌱 I’m currently learning ...
 - Embedded system (STM32Fxx)
