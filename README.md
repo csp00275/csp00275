@@ -8,7 +8,7 @@
 - ROS2
 
 🌱 I’m currently learning ...
-- Embedded system (STM32Fxx) and Edge AI (TensorfloewLite)
+- Embedded system (STM32F7xx) and Edge AI (TensorflowLite)
 - IOT with SmartThings (ESP8266 with Arduino)
 - Frontend Developement (Android app on Flutter)
 - Deep Learning (Supervised learning)
