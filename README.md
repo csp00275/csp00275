@@ -8,10 +8,10 @@
 - ROS2
 
 🌱 I’m currently learning ...
-- Embedded system (STM32F7xx) and Edge AI (TensorflowLite)
+- Embedded system and ondevice AI (STM32F7xx)
 - IOT with SmartThings (ESP8266 with Arduino)
 - Frontend Developement (Android app on Flutter)
-- Deep Learning (Supervised learning)
+- Supervised learning (MLP, CNN)
 
 📫 How to reach me ...
 - e-mail : csp00275@skku.edu
