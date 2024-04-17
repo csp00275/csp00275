@@ -8,7 +8,7 @@
 - ROS2
 
 🌱 I’m currently learning ...
-- Embedded system and ondevice AI (STM32F7xx)
+- Embedded system (STM32F746-ondevice AI)
 - IOT with SmartThings (ESP8266 with Arduino)
 - Frontend Developement (Android app on Flutter)
 - Supervised learning (MLP, CNN)
